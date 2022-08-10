@@ -1,8 +1,8 @@
-**Project-3 by Rakshith J**
+**Project-4 by Rakshith J**
 
-In this project I learned how to designing websites with button styles and text Hover funtion.
+In this project I learned how to designing websites with background image position and sizing.
 
-### Time taken finish project3 : 3hrs
+### Time taken finish project-4 : 3hrs
 
 Netlify
 
